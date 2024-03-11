@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️Hi, My name is Jinay, thanks for visiting my profile!! <br>🤝 Currently pursuing Masters degree in Computer Science at Indiana University Bloomington<br>🎓Graduating in May'2024<br>🤝Looking to Collaborate on Software Development projects, integrated with Gen AI, and Machine Learning<br>🤝 I am looking for help with referrals for Software Engineering roles<br>🌱 Currently learning about LLMs, GenAI, AI Chips<br>💬 Ask me about Software Engineering and Machine Learning<br>⚡ I like to Code, play cricket and chess!
+🙋‍♂️Hi, My name is Jinay, thanks for visiting my profile!! <br>🤝 Currently pursuing Masters degree in Computer Science at Indiana University Bloomington<br>🎓Graduating in May'2024<br>🤝Looking to Collaborate on Software Development projects, integrated with Gen AI, and Machine Learning<br>🤝 I am looking for help with referrals for Software Engineering roles<br>🌱 Currently learning about LLMs, GenAI, AI Chips<br>💬 Ask me about Software Engineering and Machine Learning<br>⚡ I like to Code, play cricket and chess!<br>
 For collab: panchaljinay11@gmail.com
 
 
